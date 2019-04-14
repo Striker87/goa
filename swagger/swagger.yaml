@@ -1,0 +1,14 @@
+consumes:
+- application/json
+- application/xml
+- application/gob
+- application/x-gob
+info:
+  version: ""
+paths: {}
+produces:
+- application/json
+- application/xml
+- application/gob
+- application/x-gob
+swagger: "2.0"
